@@ -1,5 +1,7 @@
 # rugifont
-A font I'm making open source, mainly so that rugifon (a conscript I'm creating for english that's based on unifon, also the namesake) has its own font
+A font I'm making open source, mainly so that rugifon (a conscript I'm creating for english that's based on unifon, also the namesake) has its own font 
+
+this was originally not gonna use github but I think it's worth using github here, the svg files were created like a few weeks before this was a github repo
 
 Probably gonna put various conscripts into the private use areas
 
